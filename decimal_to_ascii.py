@@ -1,0 +1,6 @@
+x = input("Enter letter to convert to ascii: ")
+number = ord(x)
+print(number)
+y = int(input("Enter number to convert to ascii: "))
+char = chr(y)
+print(char)
